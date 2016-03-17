@@ -1,1 +1,3 @@
-the first write
+
+:s
+the second write
